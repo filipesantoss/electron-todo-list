@@ -1,0 +1,1 @@
+Based on [Brad Traversy's](https://github.com/bradtraversy) Shopping List.

@@ -1,0 +1,14 @@
+{
+  "name": "electron-todo-list",
+  "version": "0.0.1",
+  "description": "desktop todo list app",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "filipesantoss",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
